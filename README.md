@@ -1,9 +1,9 @@
-### Here is what I'm working on👋
+### Hello 👋
 
-
-Here are some ideas to get you started:
+Hi, I'm Elijah I'm a web developer who is passionate about desigin, animation, and learning open source software 
 
 - 🔭 I’m currently working on ... [cityspire](https://c.cityspire.dev/)
 - 🌱 I’m currently learning ... Blender Animation
-- 📫 How to reach me: ... [elijahatkins.com](https://elijahatkins.com)
+- 📫 How to reach me: ... [LinkedIn(https://www.linkedin.com/in/elijah-the-atkins/)
+- 🌎 My Website: ... [elijahatkins.com](https://elijahatkins.com)
 -->
