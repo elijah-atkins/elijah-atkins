@@ -5,6 +5,8 @@ Hi, I'm Elijah I'm a web developer who is passionate about desigin, animation, a
 - HTML
 - CSS
 - React
+- 3D Modeling
+- Animation
 
  🔭 I’m currently working on ... [cityspire](https://c.cityspire.dev/)<br>
  🌱 I’m currently learning ... Blender Animation<br>
